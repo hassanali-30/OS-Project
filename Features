@@ -1,0 +1,9 @@
+📋  Features
+Feature	Description
+✅ Process Scheduling	Hybrid: SRTF + RR (Quantum = 3)
+✅ Memory Management	Best Fit Allocation
+✅ Deadlock Avoidance	Banker's Algorithm
+✅ IPC (Messaging)	Message Queue via map<int, vector<int>>
+✅ Performance Analysis	Avg. Waiting Time, TAT
+✅ Aging	Prevents starvation (boosts priority)
+
